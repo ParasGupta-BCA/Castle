@@ -13,7 +13,7 @@
 ## 📲 UI Preview
 
 <p align="center">
-  <img src="https://parasgupta-bca.github.io/Castle/ui-preview.png" alt="Castle App UI" width="600" />
+  <img src="[https://parasgupta-bca.github.io/Castle/ui-preview.png](https://parasgupta-bca.github.io/Castle/ui.webp)" alt="Castle App UI" width="600" />
 </p>
 
 > *A sleek, dark-themed interface showcasing multilingual content, trending movies, and powerful search & watch features.*
